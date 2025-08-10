@@ -1,0 +1,8 @@
+vnstock
+pandas
+matplotlib
+numpy
+ta
+jupyter
+reportlab
+scipy
